@@ -1,5 +1,7 @@
-#### 2 N N S - V :computer:
+### 2 N N S - V :computer:
 
+
+  >__Interesting in :closed_lock_with_key:__
 
 
 * PKNU : MAR 2020 - ongoing
@@ -7,7 +9,7 @@
 * GDSC PKNU : MAR 2022 - ongoing
 * C MATE Advanced : MAR 2022 
 
-About ME - [BLOG](https://blog.naver.com/msy3824)
+###### About ME - [BLOG](https://blog.naver.com/msy3824)
 
 
-Interesting in :closed_lock_with_key:
+
