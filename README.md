@@ -1,16 +1,13 @@
-### Hi there 👋
+#### 2 N N S - V :computer:
 
-<!--
-**2NNS-V/2NNS-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* PKNU MAR 2020 - ongoing
+* PKNU CERT-IS MAR 2021 - FEB 2022
+* GDSC PKNU MAR 2022 - ongoing
+* C MATE Advanced MAR 2022 
+
+About ME - [BLOG](https://blog.naver.com/msy3824)
+
+
+Interesting in :closed_lock_with_key:
