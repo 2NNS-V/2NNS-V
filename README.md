@@ -1,7 +1,7 @@
 ### 2 N N S - V :computer:
 
 
-  >__Interesting in :closed_lock_with_key:__
+  >__Interested in :closed_lock_with_key:__
 
 
 * PKNU : MAR 2020 - ongoing
