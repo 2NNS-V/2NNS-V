@@ -8,6 +8,6 @@
 
 
 ###### About ME - [BLOG](https://blog.naver.com/msy3824)
-
+######          - [Notion](https://www.notion.so/2NNS-V)
 
 
