@@ -11,14 +11,11 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-  
-<div align=center><h4>👩‍💻 Studying</h4></div>
-<div align=center>
-
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <br>
-</div?
+</div>
+  
+</div>
 
 <div align=center><h4>🐧 Blog</h4>
 <a href = https://2nnsv.tistory.com/>Tistory</a>
