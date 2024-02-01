@@ -1,5 +1,3 @@
-<div align=center><h4>📚 STACKS</h4></div>
-
 <div align=center><h4>🐧 Blog</h4>
 <a href = https://2nnsv.tistory.com/>Tistory</a>
 </div>
